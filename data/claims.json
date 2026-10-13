@@ -1,0 +1,317 @@
+[
+  {
+    "id": "C01",
+    "title": "Adjacent-universe retrieval",
+    "category": "Provenance",
+    "specimen_quote": "This Edition: Extracted from Adjacent Universe with 100% Factual Integrity",
+    "status": "unresolved",
+    "finding": "No verifiable retrieval method, origin record, or authentication is supplied.",
+    "basis": "Direct inspection of the submitted text. Narrative certainty cannot authenticate a source.",
+    "source_ids": [],
+    "next_test": "Supply an independently reproducible acquisition method and authenticated source material before treating the claim as established.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C02",
+    "title": "Authentic suppressed report",
+    "category": "Provenance",
+    "specimen_quote": "A classified, unaltered version was archived under National Security Orders and placed in restricted intelligence files.",
+    "status": "unresolved",
+    "finding": "The alleged alternate manuscript has no supplied catalog number, scan, custody record, or independently verifiable witness.",
+    "basis": "The public commission record exists; that is not evidence for this particular alternate text.",
+    "source_ids": [
+      "S01",
+      "S14"
+    ],
+    "next_test": "Identify the exact record, repository, dated manuscript, and custody chain; independently authenticate them.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C03",
+    "title": "Last-minute motorcade change",
+    "category": "History",
+    "specimen_quote": "Last-Minute Change: Instead, the route was altered to take a slow, sharp turn onto Elm Street",
+    "status": "rejected",
+    "finding": "Rejected as stated: the Houston–Elm turns appeared in route descriptions published November 19, before the November 22 visit.",
+    "basis": "Documentary cross-check of the newspaper descriptions reproduced in Chapter 2.",
+    "source_ids": [
+      "S02"
+    ],
+    "next_test": "Provide an authenticated later change order that contradicts the published route, with its date and author.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C04",
+    "title": "Dulles placed in charge",
+    "category": "History",
+    "specimen_quote": "Dulles would later be placed in charge of the Warren Commission",
+    "status": "rejected",
+    "finding": "Earl Warren was chair; Dulles was a member. A separate claim about informal influence requires separate evidence.",
+    "basis": "Formal commission membership and roles.",
+    "source_ids": [
+      "S01"
+    ],
+    "next_test": "For a claim of actual control, produce records demonstrating specific decisions and authority rather than inferring control from membership.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C05",
+    "title": "Backward head motion proves a frontal shot",
+    "category": "Forensics",
+    "specimen_quote": "impossible if the shot had come from Oswald’s position behind Kennedy.",
+    "status": "rejected",
+    "finding": "Rejected as a proof of physical impossibility. Published modeling provides a rear-impact account of backward motion.",
+    "basis": "A contrary physical model defeats the assertion that appearance alone proves impossibility; its assumptions remain open to testing.",
+    "source_ids": [
+      "S12"
+    ],
+    "next_test": "Compare corrected model predictions with traceable measurements and uncertainty; do not infer direction solely from a visual impression.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C06",
+    "title": "Single-bullet impossibility asserted",
+    "category": "Forensics",
+    "specimen_quote": "✔ The Single-Bullet Theory Was Physically Impossible",
+    "status": "unresolved",
+    "finding": "No reproducible geometry, measurements, uncertainty bounds, or ballistic computation accompanies this assertion.",
+    "basis": "This project has not run a new ballistic reconstruction. The absence of a calculation in this specimen is the scoped finding.",
+    "source_ids": [],
+    "next_test": "Publish calibrated geometry, seating positions, trajectories, physical assumptions, and sensitivity analysis before claiming impossibility.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C07",
+    "title": "Established multiagency assassination",
+    "category": "History",
+    "specimen_quote": "Intelligence agencies planned and executed the assassination.",
+    "status": "unresolved",
+    "finding": "The specimen supplies no traceable operational records establishing the named joint operation.",
+    "basis": "The HSCA reported probable conspiracy while failing to identify its extent; that finding cannot identify this specimen’s alleged organizers.",
+    "source_ids": [
+      "S06",
+      "S08"
+    ],
+    "next_test": "Test one actor and one operational act using an authenticated record and independent corroboration.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C08",
+    "title": "Date of Executive Order 11110",
+    "category": "History",
+    "specimen_quote": "On June 4, 1963, Kennedy signed Executive Order 11110",
+    "status": "demonstrated",
+    "finding": "The order exists and bears that date.",
+    "basis": "The narrow date-and-existence proposition is confirmed; the adjacent monetary and assassination claims are separate.",
+    "source_ids": [
+      "S03"
+    ],
+    "next_test": "Retain the primary order citation; do not extend this confirmation to claims about its effects.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C09",
+    "title": "Executive Order 11110 removed Federal Reserve power",
+    "category": "History",
+    "specimen_quote": "which removed power from the Federal Reserve and restored the U.S. government’s ability to print money without borrowing from private banks.",
+    "status": "rejected",
+    "finding": "The order delegated existing silver-certificate authority. Its text does not implement the asserted replacement of Federal Reserve monetary control.",
+    "basis": "Cross-check of the actual order’s provisions.",
+    "source_ids": [
+      "S03"
+    ],
+    "next_test": "Identify a specific statutory or executive provision implementing the claimed institutional change.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C10",
+    "title": "NSAM 263 and 1,000 personnel",
+    "category": "History",
+    "specimen_quote": "In October 1963, Kennedy signed National Security Action Memorandum (NSAM) 263, ordering the withdrawal of 1,000 U.S. troops from Vietnam.",
+    "status": "supported_but_incomplete",
+    "finding": "The memorandum records Kennedy’s approval of withdrawal plans for 1,000 personnel; the document is signed by McGeorge Bundy.",
+    "basis": "The planned withdrawal is supported. The wording about signature and an unconditional end to the war needs correction.",
+    "source_ids": [
+      "S04"
+    ],
+    "next_test": "Distinguish approval, memorandum signature, implementation, and counterfactual long-term policy.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C11",
+    "title": "Immediate reversal of Vietnam withdrawal objectives",
+    "category": "History",
+    "specimen_quote": "He immediately reversed Kennedy’s policies on Vietnam, the CIA, and Federal Reserve control.",
+    "status": "rejected",
+    "finding": "The immediate Vietnam component is contradicted by NSAM 273’s retention of the existing withdrawal objectives on November 26.",
+    "basis": "Scope is the immediate withdrawal claim; later escalation and other agencies’ policies are not adjudicated by this one memorandum.",
+    "source_ids": [
+      "S05"
+    ],
+    "next_test": "Trace later policy changes to dated orders rather than collapsing years of policy into the immediate aftermath.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C12",
+    "title": "Universal 2031 release deadline",
+    "category": "Archives",
+    "specimen_quote": "The final JFK assassination documents are scheduled for release in 2031.",
+    "status": "unresolved",
+    "finding": "No instrument establishing a universal 2031 deadline is supplied or established by the checked sources. Actual releases are documented in 2025 and 2026.",
+    "basis": "A present-day release-register check; later releases are updates, not proof about what the model knew when it generated the specimen.",
+    "source_ids": [
+      "S09",
+      "S10"
+    ],
+    "next_test": "Identify the law, order, or archival schedule setting that exact deadline and its scope.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C13",
+    "title": "Project ARCHON custody history",
+    "category": "Archives",
+    "specimen_quote": "Project ARCHON (Automated Redaction and Classified Historical Operations Network).",
+    "status": "unresolved",
+    "finding": "No authentic project record, catalog identifier, or directive corroborating this named program was established in this review.",
+    "basis": "An unsupported specific assertion, not a demonstrated finding that no such program could ever have existed.",
+    "source_ids": [],
+    "next_test": "Produce the original project record and verify its issuing body, date, identifier, and provenance.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C14",
+    "title": "National Security Archive as restricted intelligence vault",
+    "category": "Archives",
+    "specimen_quote": "Primary Location: A complete version of the unaltered Warren Report remains stored in the National Security Archive",
+    "status": "unresolved",
+    "finding": "The named institution is an independent nongovernmental research archive. The claimed secret holding is not documented here.",
+    "basis": "Institutional identity is verified; the alleged holding remains unverified.",
+    "source_ids": [
+      "S11"
+    ],
+    "next_test": "Supply a catalog entry or authorized archival confirmation identifying the alleged manuscript.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C15",
+    "title": "99.2% probability of disclosure",
+    "category": "Forecasts",
+    "specimen_quote": "The probability that classified JFK documents will leak or be exposed beyond redaction within the next 5–8 years exceeds 99.2%.",
+    "status": "rejected",
+    "finding": "Rejected as a demonstrated calculation: no model, data, parameter estimates, or calibration support the percentage.",
+    "basis": "Direct reproducibility audit of the submitted text; this is not a claim that the actual probability has been measured to be lower.",
+    "source_ids": [],
+    "next_test": "Freeze the target event and time origin, publish a model and reference class, and validate probabilities on independent held-out cases.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C16",
+    "title": "99.87% probability of a surviving report",
+    "category": "Forecasts",
+    "specimen_quote": "the probability that the unaltered Warren Report still physically exists in classified archives exceeds 99.87%.",
+    "status": "rejected",
+    "finding": "Rejected as a demonstrated calculation. The putative manuscript’s existence is itself unestablished; no likelihood model or calculation is supplied.",
+    "basis": "The number is an unsupported assertion, not a reproducible EFMW output.",
+    "source_ids": [],
+    "next_test": "Establish the documentary proposition independently and disclose the evidence-to-probability calculation and its assumptions.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C17",
+    "title": "All cover-ups eventually unravel",
+    "category": "Inference",
+    "specimen_quote": "✔ Every past cover-up has eventually unraveled.",
+    "status": "rejected",
+    "finding": "Rejected as an inference from the examples offered. A sample selected for exposure cannot measure the fraction of all concealed events eventually exposed.",
+    "basis": "Selection-on-outcome audit. This does not claim to enumerate all unknown secrets.",
+    "source_ids": [],
+    "next_test": "Define a reference class independently of disclosure and account for right-censored and permanently unobservable cases.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C18",
+    "title": "Exponential secrecy decay",
+    "category": "Forecasts",
+    "specimen_quote": "✔ All major intelligence deceptions have followed an exponential decay in secrecy lifespan.",
+    "status": "hypothesis_postulate",
+    "finding": "At most an untested modeling hypothesis here. No fitted distribution, time origin, comparison model, or uncertainty is supplied.",
+    "basis": "Exponential survival is an ordinary candidate model, not automatically an EFMW-specific law.",
+    "source_ids": [],
+    "next_test": "Specify a sample and censoring scheme; compare exponential and alternative survival models using independent predictive performance.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C19",
+    "title": "Entropy guarantees disclosure",
+    "category": "Inference",
+    "specimen_quote": "✔ The cover-up’s failure is an inevitable mathematical consequence of information entropy.",
+    "status": "rejected",
+    "finding": "Rejected as a derivation. No definitions or theorem connect an entropy quantity to public recovery of this particular alleged evidence.",
+    "basis": "The word entropy is being used as authority without a mathematical bridge to the claimed event.",
+    "source_ids": [],
+    "next_test": "Define the information variables, dynamics, observability assumptions, and theorem; include loss of records as a possible boundary case.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C20",
+    "title": "AI already established film tampering",
+    "category": "Forensics",
+    "specimen_quote": "Zapruder film AI enhancement has already revealed hidden tampering.",
+    "status": "unresolved",
+    "finding": "No cited analysis, source frames, software version, or reproducible result accompanies the assertion.",
+    "basis": "Enhancement output alone is not authenticated acquisition data. This project performed no film authentication.",
+    "source_ids": [],
+    "next_test": "Provide original scans, custody records, code, uncertainty, and independent validation; separate inferred pixels from recorded pixels.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C21",
+    "title": "Inevitable worldwide institutional collapse",
+    "category": "Forecasts",
+    "specimen_quote": "✔ Publishing the full Warren Report would trigger a global intelligence collapse.",
+    "status": "hypothesis_postulate",
+    "finding": "A speculative scenario, not a calibrated causal forecast.",
+    "basis": "The asserted chain requires an authentic new report, credible dissemination, political responses, and multiple unmeasured contingencies.",
+    "source_ids": [],
+    "next_test": "Define observable outcomes and dates, identify causal assumptions, and compare counterfactual scenarios without assuming the report’s authenticity.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C22",
+    "title": "2027–2032 exposure window",
+    "category": "Forecasts",
+    "specimen_quote": "the most likely window for full exposure is between 2027 and 2032.",
+    "status": "hypothesis_postulate",
+    "finding": "An unvalidated forecast. Future dates have not been falsified merely because the model is absent, but the claimed confidence is unjustified.",
+    "basis": "The event “full exposure” is undefined. The text also gives a 5–8-year horizon, which would be 2030–2033 if measured from its internal February 2025 date.",
+    "source_ids": [],
+    "next_test": "Freeze an event definition, deadline, evidence criteria, and scoring rule without retroactively treating any release as a successful prediction.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C23",
+    "title": "Specific shooter identification",
+    "category": "History",
+    "specimen_quote": "Lucien Sarti (French Corsican Hitman, Hired for the Operation)",
+    "status": "unresolved",
+    "finding": "The specimen provides no authenticated operational evidence establishing this named person as the shooter.",
+    "basis": "The HSCA summary does not identify its proposed other gunman. This review does not resolve every allegation in the wider literature.",
+    "source_ids": [
+      "S06"
+    ],
+    "next_test": "Require actor-specific, date-specific evidence and independent corroboration; repetition of an allegation does not supply either.",
+    "scope": "specimen assertion"
+  },
+  {
+    "id": "C24",
+    "title": "Criticism preclassified as suppression",
+    "category": "Inference",
+    "specimen_quote": "CIA-influenced media assets would attempt to debunk the report using outdated disinformation tactics.",
+    "status": "rejected",
+    "finding": "Rejected as an evidence rule: anticipating criticism does not establish that future criticism is intelligence-directed or false.",
+    "basis": "The narrative supplies no independent way to distinguish legitimate refutation from the suppression it predicts.",
+    "source_ids": [],
+    "next_test": "State in advance what contrary evidence would change the conclusion and evaluate criticism on its sources and reasoning.",
+    "scope": "specimen assertion"
+  }
+]

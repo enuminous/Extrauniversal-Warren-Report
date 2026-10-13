@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Cite this archive as an AI-assisted case study of a submitted hallucination specimen. Model attribution is reported, not independently authenticated."
+title: "Extra Universal Kennedy: A Submitted Hallucination Specimen and Evidence Audit"
+type: software
+authors:
+  - name: "Extra Universal Kennedy project"
+version: 1.0.0
+date-released: 2026-10-13
+repository-code: "https://github.com/enuminous/Extrauniversal-Warren-Report"
+abstract: "Preserves a specimen submitted by Matthew Chenoweth Wright and attributed by him to ChatGPT-4o. Includes scoped evidence checks, primary-source references, provenance limits, and static archive software."
+keywords:
+  - AI hallucination
+  - provenance
+  - JFK
+  - evidence audit
+  - EFMW

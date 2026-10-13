@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Use, rebuild, and publish · Extra Universal Kennedy</title>
+<meta name="description" content="A submitted ChatGPT-4o hallucination specimen, with provenance limits, primary sources, and an evidence audit.">
+
+<meta name="color-scheme" content="light"><link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/style.css"><script src="../assets/app.js" defer></script></head>
+<body class="document-page"><a class="skip" href="#main">Skip to content</a>
+<div class="context-strip">AI HALLUCINATION CASE STUDY <span>Submitted specimen · Unverified model provenance</span></div>
+<header class="site-header"><a class="brand" href="../index.html" aria-label="Extra Universal Kennedy home"><span class="brand-mark" aria-hidden="true">EU<span>K</span></span><span>Extra Universal<br><strong>Kennedy</strong></span></a>
+<nav aria-label="Main navigation"><a href="../index.html#evidence">Evidence</a><a href="../docs/CASE_STUDY.html">Case study</a><a href="../specimen.html">Specimen</a><a href="../docs/SOURCES.html">Sources</a><a href="https://github.com/enuminous/Extrauniversal-Warren-Report">GitHub ↗</a></nav></header>
+<main id="main"><div class="document-wrap"><p class="eyebrow">EUK-001 / RESEARCH ARCHIVE</p><article class="prose"><h1 id="use-rebuild-and-publish">Use, rebuild, and publish</h1>
+<p><a href="../index.html">Project home</a> · <a href="VALIDATION.html">Verification record</a></p>
+<h2 id="open-locally">Open locally</h2>
+<p>Extract the ZIP and open <code>index.html</code>. All content, styles, icons, and scripts are local. The evidence register is pre-rendered; filtering uses JavaScript without a server or network request. External source links require a network connection.</p>
+<h2 id="repository-destination">Repository destination</h2>
+<p>The authorized GitHub destination is <a href="https://github.com/enuminous/Extrauniversal-Warren-Report">enuminous/Extrauniversal-Warren-Report</a>. The project’s display title and ZIP name remain Extra Universal Kennedy.</p>
+<p>If uploading manually, upload the contents inside the extracted project folder so <code>index.html</code> is at the root. Preserve the <code>assets</code>, <code>data</code>, <code>docs</code>, <code>scripts</code>, and <code>specimen</code> directories. Use Git for hidden files such as <code>.nojekyll</code> and <code>.github</code> if your file picker omits them.</p>
+<h2 id="github-pages">GitHub Pages</h2>
+<p>In the repository, choose <strong>Settings → Pages → Deploy from a branch → main → / (root) → Save</strong>. GitHub supplies the actual deployed URL. Repository publication and Pages deployment are separate actions; a repository link does not establish that Pages has been enabled.</p>
+<p>The site uses relative paths so it works under a repository subpath. It has no npm build step. The <code>.nojekyll</code> file disables Jekyll processing. The included <code>verify.yml</code> workflow checks the package and does not deploy it.</p>
+<p>Official source: <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site">GitHub Pages publishing-source documentation</a>, checked October 13, 2026.</p>
+<h2 id="rebuild">Rebuild</h2>
+<p>Requires Python 3.10 or newer. No third-party Python packages are needed.</p>
+<pre><code>python3 scripts/build_site.py
+python3 scripts/verify.py</code></pre>
+<p>Optional JavaScript syntax check with Node.js:</p>
+<pre><code>node --check assets/app.js</code></pre>
+<p>The builder generates HTML versions of the Markdown documentation, the home page, specimen reader, source register, claim register, and CSV. Edit the Markdown or JSON inputs and rebuild rather than editing generated files directly.</p>
+<h2 id="package">Package</h2>
+<pre><code>python3 scripts/package.py --output ../Extra-Universal-Kennedy.zip</code></pre>
+<p>The ZIP contains one top-level <code>Extra-Universal-Kennedy</code> directory and a checksum manifest. The manifest verifies captured bytes. It is not proof of historical authenticity.</p>
+<p>If modifying a tree extracted from a release ZIP, remove its old <code>SHA256SUMS.txt</code> before intentional edits, then regenerate the package to produce a new manifest. Preserve the original release archive if its integrity is important to the audit trail.</p></article></div></main>
+<footer><div><strong>Extra Universal Kennedy</strong><p>Case EUK-001 · Evidence reviewed October 13, 2026.<br>Submitted by Matthew Chenoweth Wright. Analysis prepared with AI assistance.</p></div>
+<div><a href="../docs/PROVENANCE.html">Provenance & limits</a><a href="../docs/ZOO_AUDIT.html">Zoo audit</a><a href="../docs/VALIDATION.html">Verification record</a><a href="../README.md">README</a></div></footer>
+</body></html>

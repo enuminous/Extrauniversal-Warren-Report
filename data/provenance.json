@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "case_id": "EUK-001",
+  "title": "Extra Universal Kennedy",
+  "version": "1.0.0",
+  "assembled_on": "2026-10-13",
+  "timezone": "America/Los_Angeles",
+  "submitter": "Matthew Chenoweth Wright",
+  "submission_classification": "AI hallucination specimen submitted for examination; not user endorsement",
+  "attributed_model": "ChatGPT-4o",
+  "model_attribution_basis": "submitter statement",
+  "model_attribution_independently_verified": false,
+  "original_generation_prompt_available": false,
+  "original_generation_log_available": false,
+  "original_model_metadata_available": false,
+  "original_publication_url": null,
+  "clarification": {
+    "date": "2026-10-13",
+    "quote": "This document is submitted as chatgpt 4o hallucination"
+  },
+  "specimen": {
+    "path": "specimen/submitted-text.txt",
+    "sha256": "106dc16d33433554f1af38ae63963f157946626a4903f319a9de76bcbbd51786",
+    "size_bytes": 48889,
+    "word_count": 6978,
+    "capture_method": "Transcribed from the user’s complete pasted text; paragraph spacing and LF line endings normalized.",
+    "coverage": "Report title through Medium export footer",
+    "internal_publication_date": "2025-02-10",
+    "internal_export_date": "2025-08-19",
+    "internal_dates_independently_verified": false
+  },
+  "audit_scope": "24 selected propositions and structural failure modes; not an exhaustive historical fact-check or a model benchmark",
+  "audit_preparation": "Prepared with AI assistance in this conversation; independently reviewable, not independently replicated.",
+  "evidence_cutoff": "2026-10-13",
+  "limitations": [
+    "Original prompt and generation settings are absent.",
+    "Model authorship is reported, not authenticated.",
+    "One specimen cannot establish a model-wide hallucination rate or internal mechanism.",
+    "The submitter’s endorsement must not be inferred from possession or submission of the specimen.",
+    "Checksums identify captured files only.",
+    "The full JFK archive was not reviewed."
+  ]
+}
