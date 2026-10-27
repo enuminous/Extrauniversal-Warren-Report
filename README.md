@@ -1,5 +1,31 @@
 # Extra Universal Kennedy
 
+<!-- ENUMINOUS-UNIFIED-NAV:START -->
+## Repository navigation
+
+**eNuminous network:** [All public repositories](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md) · [EFMW](https://github.com/enuminous/EFMW) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [Frozen Lean](https://github.com/enuminous/Monolithic-102-Zoo-Lean4) · [Zoo](https://github.com/enuminous/Tortoise) · [Papers](https://github.com/enuminous/papers) · [Quantum geometry](https://github.com/enuminous/Base888-Quantum-Geometry)
+
+**This project:** [Repository home](https://github.com/enuminous/Extrauniversal-Warren-Report) · [Subject index](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md#papers-publications-and-creative-work)
+
+<details open>
+<summary><strong>On this page</strong></summary>
+
+- [What is here](#what-is-here)
+- [Start reading](#start-reading)
+- [GitHub and Pages](#github-and-pages)
+- [Maintain the evidence record](#maintain-the-evidence-record)
+- [Project map](#project-map)
+- [Attribution and limits](#attribution-and-limits)
+
+
+</details>
+
+**Related repositories:** [Harlequinn](https://github.com/enuminous/Harlequinn) · [I-Have-Guts](https://github.com/enuminous/I-Have-Guts) · [Alchemy-of-Emergence](https://github.com/enuminous/Alchemy-of-Emergence) · [Wrights-Law](https://github.com/enuminous/Wrights-Law) · [papers](https://github.com/enuminous/papers) · [EFMW](https://github.com/enuminous/EFMW)
+
+> **Evidence boundary:** A link between projects is navigation, not an assertion of proven equivalence, experimental validation, or shared authorship. See each repository’s own status and review notes.
+<!-- ENUMINOUS-UNIFIED-NAV:END -->
+
+
 **A submitted AI hallucination specimen, preserved with a source-linked evidence audit.**
 
 [Repository](https://github.com/enuminous/Extrauniversal-Warren-Report) · [Project page source](index.html) · [Read the case study](docs/CASE_STUDY.md) · [Inspect 24 claims](docs/CLAIM_REGISTER.md) · [Review provenance](docs/PROVENANCE.md) · [Sources](docs/SOURCES.md)
